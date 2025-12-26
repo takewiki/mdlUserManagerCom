@@ -13,6 +13,8 @@ mdlUserManagerServer::userRoleSettingServer(input ,output  ,session ,app_id  )
 
 mdlUserManagerServer::roleRightServer(input ,output  ,session ,app_id  )
 
+mdlUserManagerServer::userUpdateServer(input ,output  ,session ,app_id  )
+
 
 
 
